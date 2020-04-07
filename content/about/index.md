@@ -1,18 +1,29 @@
 ---
 title: 'About Me'
 avatar: './me.jpg'
+
+tools:
+  - Sketch
+  - Adobe XD
+  - Adobe After Effects
+  - Adobe Photoshop
+  - Lottie
+
 skills:
+  - UX & UI Design
+  - Vector Graphic
+  - Motion Design
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - React
-  - Vue
   - Node.js
-  - Express
-  - NativeScript
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Szymon, web designer based in Wrocław, Poland who enjoys creating things that live on the internet.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I am at the end of my MA studies in information technology at University of Technology WWSIS.
+
+I design exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient technology stack.
+
 
 Here are a few technologies I've been working with recently:
