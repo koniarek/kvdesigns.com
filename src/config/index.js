@@ -42,10 +42,6 @@ module.exports = {
       name: 'Codesandbox',
       url: 'https://codesandbox.io/u/koniarek',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/koniarek'
-    },
   ],
 
   navLinks: [
