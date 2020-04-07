@@ -107,7 +107,7 @@ const Footer = () => {
           href="https://github.com/bchiang7/v4"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; SKxDesign</div>
+          <div>Designed by SKxDesign</div>
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
